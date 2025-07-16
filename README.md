@@ -1,8 +1,8 @@
-# E-commerce-Sales-Analysis
-Excel Dashboard project to visualize sales, profit, and trends in E-commerce data.
-This project uses Excel to analyze and visualize E-commerce sales data.  
-Key features:
-- Total Sales and Profit
-- Sales by Category, City, Country
-- Customer Segment & Regional Trends
-- Interactive slicers by year and product
+# 📈 E-Commerce Sales Analysis Dashboard
+An interactive Excel dashboard that turns raw sales data into clear, actionable insights.  
+Features include:
+- Total Sales, Profit, and Average Discount
+- Sales by Product Category and Top Cities
+- Country-wise Revenue Distribution
+- Sales and Profit Trends Over Time
+- Customer Segments and Regional Trends
